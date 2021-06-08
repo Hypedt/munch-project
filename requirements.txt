@@ -13,7 +13,7 @@ filelock==3.0.12
 googlemaps==4.2.0
 gunicorn==20.0.4
 idna==2.9
-Pillow==7.0.0
+Pillow==8.2.0
 pipenv==2018.11.26
 psycopg2==2.8.4
 python-decouple==3.3
